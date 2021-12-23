@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+I am data scientist interested in:
+  - :abacus: Data Science 
+  - :slot_machine: Machine Learning
+  - :bar_chart: Data Visualization
 
 <!--
 **osrow/osrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
