@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a data scientist interested in:
+I am a data scientist interested in: 
   - :abacus: Data Science 
   - :slot_machine: Machine Learning
   - :bar_chart: Data Visualization
